@@ -1,0 +1,105 @@
+/*********** TAG SELECTORS ***********/
+
+body {
+  background-color: #3a3845;
+  margin: 0px;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  color: #f7ccac;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #f7ccac;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #c69b7b;
+}
+
+p {
+  margin-top: 5px;
+  color: #dddac8;
+}
+
+a {
+  padding: 0.4rem;
+  color: #c69b7b;
+  text-decoration: none;
+}
+
+/*********** CLASS SELECTORS ***********/
+
+.top-container {
+  padding-top: 50px;
+  padding-bottom: 0;
+}
+
+.midcontent-p {
+  width: 50%;
+  margin: auto;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: relative;
+  right: 4rem;
+  bottom: 15rem;
+}
+
+.top-cloud {
+  position: relative;
+  left: 350px;
+  top: 50px;
+}
+
+.mountain {
+  position: relative;
+  right: 75px;
+}
+
+.matthew-picture {
+  height: 15%;
+  width: 15%;
+  margin-top: 40px;
+}
+
+.html-tag {
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.carpentry-gif {
+  width: 25%;
+  height: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+/** img.logo {
+  height: 50px;
+  width: 50px;
+  padding-bottom: 15px;
+}
+**/
